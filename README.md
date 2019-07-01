@@ -10,6 +10,7 @@ This script allows you to prevent actors from equpping certain weapon types in t
 * [Installation](#installation)
 * [Usage](#usage)
 * [Terms of Use](#terms-of-use)
+  * [Important notice](#important-notice)
 
 ## **INSTALLATION**
 Paste this script in your project below Materials. It should work fine even with other scripts that overwrite methods that are aliased in this one as long as you place this BELOW them.
