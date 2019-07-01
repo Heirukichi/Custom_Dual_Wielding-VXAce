@@ -6,7 +6,10 @@
 ## **DESCRIPTION**
 This script allows you to prevent actors from equpping certain weapon types in the dual wielding slot, even if the could normally wield them.
 
-
+## **TABLE OF CONTENTS**
+* [Installation](#installation)
+* [Usage](#usage)
+* [Terms of Use](#terms-of-use)
 
 ## **INSTALLATION**
 Paste this script in your project below Materials. It should work fine even with other scripts that overwrite methods that are aliased in this one as long as you place this BELOW them.
